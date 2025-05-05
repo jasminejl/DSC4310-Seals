@@ -1,7 +1,8 @@
 # DSC4310-Seals
 Repository for Dr. Rivas' semester-long project in DSC 4310 | Leopard Seals Identification
 
-
+Abstract
+_________________________________________________________________________________________
 Leopard seals (Hydrurga leptonyx) play a critical role as apex predators in the
 Antarctic ecosystem, yet studying them poses difficulties due to their elusive nature.
 Traditional monitoring methods require a large amount of time and effort while
